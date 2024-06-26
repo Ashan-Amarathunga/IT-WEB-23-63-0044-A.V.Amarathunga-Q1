@@ -1,0 +1,176 @@
+
+.navbar-brand{color:rgb(137, 46, 241);
+    font-family:"Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:35px;margin-left:90px}
+
+.btn{color:rgb(107, 0, 228);
+border-radius: 20px;
+border-color: rgb(107, 0, 228);
+margin-right:90px;
+font-weight:500;
+padding-right:17px;
+padding-left:17px;}
+
+.col h1{color:rgb(0, 0, 0);
+font-family: "Montserrat", sans-serif;
+font-optical-sizing: auto;
+font-weight: 700;
+font-size:45px;padding-top:80px}
+
+.col p{color:rgb(173, 173, 173);
+font-family: arial;
+font-optical-sizing: auto;
+font-weight: 700;
+font-size:12px;padding-top:10px}
+
+.form-group{display: flex;
+align-items: center;}
+
+.form-control{border-radius: 24px;
+    background-color: none;
+    width: 330px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color: rgb(225, 225, 225);
+    margin-top:40px}
+
+.btn-01{background-color:rgb(107, 0, 228);
+color: white; 
+border-radius: 20px;
+border:none;
+font-weight:500;
+margin-left:17px;
+padding-top: 12px;
+display: inline-block;
+padding-bottom: 12px;
+padding-left: 12px;
+padding-right: 25px;
+display:flex;
+padding-left: 25px;
+display: inline-block;
+margin-top:40px}
+
+.image{padding-left: 60px;}
+
+.h2{text-align: center;
+font-size: 35px;
+font-family: "Kanit", sans-serif;
+font-weight: bold;
+font-style: normal;margin-top: 130px;}
+
+.card-body{background-color:  rgb(68, 68, 249);}
+
+.card-title{color:white;
+font-weight:bold;
+font-size:22px}
+
+.card-text{color:rgb(236, 236, 236);
+font-size: 3px;}
+
+.card-img-top{padding-top: 10px;
+padding-left: 20px;}
+
+.image2{margin-left:40px;
+margin-top: 200px;}
+
+.h3{ 
+font-optical-sizing: auto;
+font-weight: bolder;
+font-style: normal;
+font-size:40px;
+margin-top: 190px;}
+
+.col-6 p{color:rgb(197, 196, 196);
+font-size: 11px;
+margin-top:50px;
+font-weight: bolder;}
+
+.btn-02{background-color:rgb(107, 0, 228);
+  color: white; 
+  border-radius: 30px;
+  border:none;
+  font-weight:500;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 25px;
+  padding-left: 25px;
+  margin-top:20px}
+
+.list{list-style: none;
+display: flex;
+margin-left: 100px;}
+
+.list1{margin-top:3px}
+
+#number{color:rgb(96, 64, 238);
+font-size:90px;
+margin-left:5px}
+
+.card:hover{transform: scale(1.1);
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);}
+
+.card-img-top{ width: 100%;
+height: auto;}
+
+.card-body{padding: 15px;}
+
+.card {
+width: 15rem;
+transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+border: 1px solid #ddd;
+border-radius: 10px;
+overflow: hidden;
+}
+
+.footer-heading{
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 45px;
+text-align: center;
+justify-content: center;
+color: black;
+padding-top: 80px;
+
+}
+
+.footer-para{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 17px;
+text-align: center;
+justify-content: center;
+color: grey;
+}
+
+.form-group1{display: flex;
+align-items: center;justify-content: center;}
+
+.form-control1{border-radius: 24px;
+    background-color: none;
+    width: 330px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color: rgb(225, 225, 225);
+    margin-top:40px;align-items: center;justify-content: center;}
+
+.btn-02{background-color:rgb(107, 0, 228);
+color: white; 
+border-radius: 20px;
+border:none;
+font-weight:500;
+margin-left:17px;
+padding-top: 12px;
+display: inline-block;
+padding-bottom: 12px;
+padding-left: 12px;
+padding-right: 25px;
+display:flex;
+padding-left: 25px;
+display: inline-block;
+margin-top:40px;align-items: center;justify-content: center;}
+
+
+
+
+
